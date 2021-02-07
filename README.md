@@ -14,5 +14,8 @@ Return: Four integers (separated by spaces) counting the respective number of ti
 
 Sample Dataset
 AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
+
+
+
 Sample Output
 20 12 17 21
